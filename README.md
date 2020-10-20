@@ -1,4 +1,4 @@
-# kore-core
+# kore-contracts
 
 ## Mainnet
 - KORE: `0xA866F0198208Eb07c83081d5136BE7f775c2399e`
